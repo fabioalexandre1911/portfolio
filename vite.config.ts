@@ -4,7 +4,7 @@ import path from "path";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/portfolio/",  // COMENTE OU APAGUE ESTA LINHA (essencial para Vercel)
+  //base: "/portfolio/",  // COMENTE OU APAGUE ESTA LINHA (essencial para Vercel)
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),

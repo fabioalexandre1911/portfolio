@@ -68,5 +68,6 @@ Os projetos exibidos no portfólio são gerenciados no arquivo [`src/data/projec
 
 **E-mail: fasfort@gmail.com**
 **LinkedIn: [Fábio Sousa](https://www.linkedin.com/in/fabio-alexandre-de-sousa-40b2703b)**
-**GitHub: [Fábio Sousa](github.com/fabioalexandre1911)**
+**GitHub: [Fábio Sousa](https://www.github.com/fabioalexandre1911)**
+**Gitpages: [Fábio Sousa](https://fabioalexandre1911.github.io/portfolio)**
 # portfolio
