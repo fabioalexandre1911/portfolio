@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Single Page Apps for GitHub Pages</title>
+    <script>
+      // Redireciona para o index.html mantendo o caminho original
+      const path = location.pathname + location.search + location.hash;
+      if (path !== '/' && path !== '/index.html') {
+        location.replace('/portfolio' + path);
+      }
+    </script>
+  </head>
+  <body></body>
+</html>
