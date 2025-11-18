@@ -40,7 +40,7 @@ const About = () => {
           Minha jornada na programação começou com a curiosidade sobre como os sistemas funcionam por trás das interfaces e como elas podem proporcionar experiências incríveis. Essa curiosidade me levou a explorar tanto o desenvolvimento back-end quanto o front-end, permitindo que eu crie soluções completas que conectam eficiência técnica com usabilidade.
         </p>
         <p className="text-muted-foreground mb-8">
-          Atualmente, estou me dedicando ao desenvolvimento de aplicações completas, explorando tecnologias como Java com Spring Boot e React com TypeScript para criar soluções robustas e escaláveis. Meu objetivo é unir a eficiência técnica com interfaces intuitivas, garantindo uma experiência fluida e integrada para os usuários.
+          Atualmente, estou me dedicando ao desenvolvimento de aplicações completas, explorando tecnologias como React com TypeScript para criar soluções robustas e escaláveis. Meu objetivo é unir a eficiência técnica com interfaces intuitivas, garantindo uma experiência fluida e integrada para os usuários.
         </p>
         <div className="flex flex-wrap gap-2 mb-8">
           {skills.map((skill, index) => (
@@ -92,7 +92,7 @@ const About = () => {
                   <div>
                     <h3 className="font-semibold text-lg mb-1">Desenvolvimento Back-End</h3>
                     <p className="text-muted-foreground text-sm">
-                      Especializado em criar APIs e serviços altamente performáticos e escaláveis usando Java, Node.js e Python.
+                      Especializado em criar APIs e serviços altamente performáticos e escaláveis usando Node.js e PHP.
                     </p>
                   </div>
                 </div>
