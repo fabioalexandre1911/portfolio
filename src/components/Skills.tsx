@@ -44,19 +44,10 @@ const Skills = () => {
             <Code size={40} className="text-primary mb-2" />
             <h3 className="font-semibold text-xl mb-2">Habilidades Técnicas</h3>
             <ul className="text-muted-foreground space-y-1 text-center text-xl">
-              <li className="transition-colors duration-200 hover:text-primary hover:bg-primary/10 rounded px-2 py-1 cursor-pointer">
-                <div>
-                  <h4>Java, SpringBoot</h4>
-                </div>
-              </li>
+             
               <li className="transition-colors duration-200 hover:text-primary hover:bg-primary/10 rounded px-2 py-1 cursor-pointer">
                 <div>
                   <h4>PostgreSQL, MySQL</h4>
-                </div>
-              </li>
-              <li className="transition-colors duration-200 hover:text-primary hover:bg-primary/10 rounded px-2 py-1 cursor-pointer">
-                <div>
-                  <h4>Python, Django, Flask</h4>
                 </div>
               </li>
               <li className="transition-colors duration-200 hover:text-primary hover:bg-primary/10 rounded px-2 py-1 cursor-pointer">
@@ -66,7 +57,7 @@ const Skills = () => {
               </li>
               <li className="transition-colors duration-200 hover:text-primary hover:bg-primary/10 rounded px-2 py-1 cursor-pointer">
                 <div>
-                  <h4>Angular, TypeScript, Tailwind CSS</h4>
+                  <h4>TypeScript, Tailwind CSS</h4>
                 </div>
               </li>
             </ul>
